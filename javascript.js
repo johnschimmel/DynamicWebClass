@@ -10,6 +10,7 @@ var ages = [2,5,3];
 //Objects
 var simpleCar = {
     type : 'sedan',
-    color : 'red',
+    color : 'blue',
     numberOfDoors : 4
 };
+
