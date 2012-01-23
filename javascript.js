@@ -6,3 +6,10 @@ var catAge = 2.5; // another a number
 
 var names = ["Sparky","Sheldon","Jasper"]; // create an array variable of names
 var ages = [2,5,3];
+
+//Objects
+var simpleCar = {
+    type : 'sedan',
+    color : 'red',
+    numberOfDoors : 4
+};
