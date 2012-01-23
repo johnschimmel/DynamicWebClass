@@ -11,6 +11,6 @@ var ages = [2,5,3];
 var simpleCar = {
     type : 'sedan',
     color : 'blue',
-    numberOfDoors : 4
+    numberOfDoors : 2
 };
 
