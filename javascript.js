@@ -12,6 +12,5 @@ var simpleCar = {
     type : 'sedan',
     color : 'blue',
     numberOfDoors : 4
-    miles : 75000
 };
 
